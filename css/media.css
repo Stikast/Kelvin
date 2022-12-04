@@ -20,6 +20,7 @@
         row-gap: 40px;
         font-size: 34px;
         font-weight: 600;
+        z-index: 99;
     }
 
     .nav-link {
@@ -35,6 +36,7 @@
         z-index: 9;
         top: 46px;
         right: 30px;
+        z-index: 100;
     }
 
     .nav.open .nav-button {
